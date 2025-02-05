@@ -67,7 +67,7 @@ sqlite3 FHIR_DB.db < schema.sql
 Or the Load script will create them for you if not exist
 
 ### **SQL Schema**
-![](DB\schema.png)
+![](DB/schema.png)
 
 ### **Patients Table**
 | Column        | Type    | Description                      |
